@@ -3,3 +3,5 @@ __pycache__
 .vector_search.db
 .cheatsheet.md
 *.csv
+logs/
+supporting_cache_data/
